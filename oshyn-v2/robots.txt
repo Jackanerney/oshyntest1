@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/thankyou.html
+
+Sitemap: https://oshyn.netlify.app/sitemap.xml
